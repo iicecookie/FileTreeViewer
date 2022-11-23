@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "filetreeviewer", "FileTreeViewer\filetreeviewer.esproj", "{EFD5E5D0-A578-420B-B5C9-CD52E0210F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{2A959AF4-0A9F-4E77-8FF2-EC48FA643595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD5E5D0-A578-420B-B5C9-CD52E0210F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD5E5D0-A578-420B-B5C9-CD52E0210F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD5E5D0-A578-420B-B5C9-CD52E0210F8E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EFD5E5D0-A578-420B-B5C9-CD52E0210F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD5E5D0-A578-420B-B5C9-CD52E0210F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD5E5D0-A578-420B-B5C9-CD52E0210F8E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2A959AF4-0A9F-4E77-8FF2-EC48FA643595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A959AF4-0A9F-4E77-8FF2-EC48FA643595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A959AF4-0A9F-4E77-8FF2-EC48FA643595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A959AF4-0A9F-4E77-8FF2-EC48FA643595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {762830E3-F256-4753-982F-5B7326786848}
+	EndGlobalSection
+EndGlobal
